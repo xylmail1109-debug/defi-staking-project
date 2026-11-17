@@ -4,8 +4,6 @@ A time-based ERC-20 staking dApp built with **Solidity 0.8.20 + Hardhat + OpenZe
 
 **Repository:** [https://github.com/wangziyan2006-cmd/defi-staking-project](https://github.com/xylmail1109-debug/defi-staking-project)
 
-**Team:** CDS528 Group (Lingnan University) · **Course:** CDS528 Blockchain DeFi Smart Contract Development
-
 | Item | Status |
 |---|---|
 | Compiler | Solidity 0.8.20 (optimizer enabled, runs = 200) |
