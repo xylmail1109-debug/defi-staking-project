@@ -345,11 +345,11 @@ This submission is an **individual** project, not a multi-member group: one auth
 
 | Role | Member | Delivered |
 |---|---|---|
-| Group Project Lead | cosmos wang ([@wangziyan2006-cmd](https://github.com/wangziyan2006-cmd)) | Scope against the rubric, report, 12-minute deck, submission |
-| Smart Contract Lead | same | `contracts/DeFiStaking.sol`, `contracts/MockToken.sol`, reward-accrual design |
-| Backend / Integration | same | `scripts/deploy.js`, `scripts/demo.js`, `scripts/verify-sourcify-v2.js`, `deployments/sepolia.json` |
-| Testing & Security Analyst | same | `test/DeFiStaking.test.js` (16 tests), Slither run, `security/SECURITY.md`, threat model |
-| Front-end / UX | same | `frontend/index.html`, `frontend/app.js` (no-build MetaMask console) |
+| Group Project Lead | Yulun Xu | Organize, coordinate, guide overall direction and architecture，report, deck, submission |
+| Smart Contract Lead | cosmos wang | `contracts/DeFiStaking.sol`, `contracts/MockToken.sol`, reward-accrual design |
+| Backend / Integration | Jiajun Yang | `scripts/deploy.js`, `scripts/demo.js`, `scripts/verify-sourcify-v2.js`, `deployments/sepolia.json` |
+| Testing & Security Analyst | Junrui Wu | `test/DeFiStaking.test.js` (16 tests), Slither run, `security/SECURITY.md`, threat model |
+| Front-end / UX | Xiaobo Liu | `frontend/index.html`, `frontend/app.js` (no-build MetaMask console) |
 
 ---
 
