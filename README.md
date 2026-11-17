@@ -1,4 +1,4 @@
-# DeFiStaking — CDS528 Blockchain DeFi Smart Contract
+# DeFiStaking — Blockchain DeFi Smart Contract
 
 A time-based ERC-20 staking dApp built with **Solidity 0.8.20 + Hardhat + OpenZeppelin 5.6.1**, deployable to the **Ethereum Sepolia** testnet.
 
