@@ -339,8 +339,6 @@ Both contracts are non-upgradeable. Rationale: the assignment scope does not jus
 
 ## 10. Roles
 
-This submission is an **individual** project, not a multi-member group: one author carried every role. The table records what each role actually produced, so the split of work is auditable rather than nominal.
-
 | Role | Member | Delivered |
 |---|---|---|
 | Group Project Lead | Yulun Xu | Organize, coordinate, guide overall direction and architecture，report, deck, submission |
